@@ -1,0 +1,30 @@
+_repo: Ang-le-M-raud_42896
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42896-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mérouvel, Charles
+    aliases:
+    - Chartier, Charles
+    - Merouvel, Charles
+    birthdate: 1832
+    deathdate: 1920
+    gutenberg_agent_id: '41918'
+    url: http://www.gutenberg.org/2009/agents/41918
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42896'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Angèle Méraud
+url: http://www.gutenberg.org/ebooks/42896
